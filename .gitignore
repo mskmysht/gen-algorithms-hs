@@ -1,0 +1,4 @@
+.stack-work/
+gen-algorithms-hs.cabal
+*~
+.DS_Store
